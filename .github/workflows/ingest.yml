@@ -36,4 +36,3 @@ jobs:
           git add site/public/data
           git commit -m "chore: update tyre catalog [skip ci]" || echo "No changes"
           git push
-``
