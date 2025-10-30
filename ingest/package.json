@@ -1,0 +1,9 @@
+{
+  "name": "ingest",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "node src/run-all.js" },
+  "dependencies": {
+    "node-fetch": "3.3.2"
+  }
+}
